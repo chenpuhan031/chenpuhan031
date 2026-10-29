@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Puhan Chen 👋
 
-<!--
-**chenpuhan031/chenpuhan031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently an MSc student in **Systems Engineering** at **City University of Hong Kong (CityU)**, and an alumnus of **UIUC** (BSc in Mathematics). 
+My research focuses on **AI Safety, LLM Red Teaming, and Agentic AI**.
 
-Here are some ideas to get you started:
+### 📄 Recent Publication
+- **[First Author]** *"Cat and Mouse in the LLM Era: A Survey of Jailbreak Attacks and Defenses"* 
+  - **Venue:** The 4th International Conference on Machine Learning and Automation (CONF-MLA 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ️ Engineering Experience
+- **AI Algorithm Intern @ Lingxin Digital Tech** (Dec 2025 – Jun 2026)
+  - Built a localized LLM vulnerability-assessment pipeline (Linux/WSL, Python, Claude & GLM-4 APIs).
+  - Reproduced advanced red-teaming scripts (e.g., StegoRedTeam) to evaluate attack susceptibility.
+  - *(Note: Due to corporate NDAs, proprietary codebases remain private.)*
+
+###  Connect with Me
+- **Email:** puhanchen2-c@my.cityu.edu.hk
